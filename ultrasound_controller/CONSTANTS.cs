@@ -10,6 +10,6 @@
         public const int BUFFER_MS = 50;
         public const float MAGNITUDE = 0.9f;
 
-        public const string FOLDER_MUSIC = "C:\\Users\\andre\\AppData\\Local\\Packages\\A025C540.Yandex.Music_vfvw9svesycw6\\LocalState\\Music\\4be2cc85e945b07dba5b7174f0a44caa";
+        public const string FOLDER_MUSIC = "Use your folder.";
     }
 }
