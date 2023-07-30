@@ -56,4 +56,5 @@ Console.ReadLine();
 ```C#
 var FFT = new FFT(18000, 20000);
 ```
-https://github.com/akeidev/ultrasound.controller/assets/45533799/795b9f71-8d5e-468e-b2ce-1c322d3d7441
+
+[Результат](https://youtu.be/e6tZEpmqnqw)
